@@ -10,11 +10,10 @@ build/
 dist/
 
 # Generated simulation outputs
-data/
-figures/
-figures-old/
-tables/
-REPORT.md
-*.png
-headline_metrics.csv
-history_*.csv
+/data/
+/figures/
+/figures-old/
+/tables/
+/REPORT.md
+/headline_metrics.csv
+/history_*.csv
