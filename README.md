@@ -1,16 +1,29 @@
 # Human-Informed Neural Networks (HINN)
 
-> **Citation request:** If you use, adapt, extend, benchmark, or redistribute this software, please cite the associated HINN paper. This request applies to researchers, authors, developers, students, and organisations. See [Citation](#citation) for the complete reference and BibTeX entry.
-
 ## Trust-Adaptive Learning with Expert Guidance
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status: Research](https://img.shields.io/badge/Status-Research-orange.svg)](#project-status)
 
-**Author:** Mohammad (Behdad) Jamshidi  
-**Affiliation:** Faculty of Engineering and Information Technology, University of Technology Sydney, Sydney, Australia  
-**Contact:** mohammad.jamshidi@alumni.uts.edu.au
+<table>
+<tr>
+<td>
+
+### Citation
+
+If you use, adapt, extend, benchmark, or redistribute this software, please cite the associated publication:
+
+**Mohammad (Behdad) Jamshidi, "Human-Informed Neural Networks (HINN): Trust-Adaptive Learning with Expert Guidance," *Human-Centric Intelligent Systems*, 2026.**
+
+**Author:** Mohammad (Behdad) Jamshidi<br>
+**Affiliation:** Faculty of Engineering and Information Technology, University of Technology Sydney, Sydney, Australia<br>
+**Contact:** mohammad.jamshidi@alumni.uts.edu.au<br>
+**BibTeX:** See the complete [Citation](#citation) section.
+
+</td>
+</tr>
+</table>
 
 Human-Informed Neural Networks (HINN) is a lightweight, dual-pathway learning framework for sequential decision problems in which human supervision is valuable but intermittent, noisy, or subject to drift. HINN combines:
 
