@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "human-informed-neural-networks-hinn"
+version = "0.1.0"
+description = "Human-Informed Neural Networks: trust-adaptive learning with expert guidance."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Mohammad (Behdad) Jamshidi", email = "mohammad.jamshidi@alumni.uts.edu.au" }
+]
+keywords = [
+  "human-informed neural networks",
+  "human-centric AI",
+  "Bayesian neural networks",
+  "recurrent neural networks",
+  "human-in-the-loop learning",
+  "trust-weighted supervision",
+  "decision-aware learning",
+  "uncertainty-aware optimisation"
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+  "matplotlib>=3.7",
+  "numpy>=1.23",
+  "pandas>=1.5",
+  "scikit-learn>=1.2",
+  "seaborn>=0.12",
+]
+
+[project.urls]
+Homepage = "https://github.com/MBJamshidi/Human-Informed-Neural-Networks-HINN"
+Repository = "https://github.com/MBJamshidi/Human-Informed-Neural-Networks-HINN"
+
+[project.scripts]
+hinn-simulate = "hinn.simulation:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+build/
+dist/
+
+# Generated simulation outputs
+data/
+figures/
+figures-old/
+tables/
+REPORT.md
+*.png
+headline_metrics.csv
+history_*.csv
