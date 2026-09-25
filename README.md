@@ -1,4 +1,4 @@
-# Human-Informed Neural Networks (HINN)
+# Human-Informed Neural Networks (HINNs)
 
 ## Trust-Adaptive Learning with Expert Guidance
 
