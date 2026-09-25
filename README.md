@@ -14,10 +14,10 @@
 
 If you use, adapt, extend, benchmark, or redistribute this software, please cite the associated publication:
 
-**Mohammad (Behdad) Jamshidi, "Human-Informed Neural Networks (HINN): Trust-Adaptive Learning with Expert Guidance," *Human-Centric Intelligent Systems*, 2026.**
-
+**Mohammad (Behdad) Jamshidi, "Human-Informed Neural Networks (HINNs): Trust-Adaptive Learning with Expert Guidance," *Human-Centric Intelligent Systems*, 2667-1336, 2026.**
+**DOI: https://doi.org/10.1007/s44230-026-00173-2**
 **Author:** Mohammad (Behdad) Jamshidi<br>
-**Affiliation:** Faculty of Engineering and Information Technology, University of Technology Sydney, Sydney, Australia<br>
+**Affiliation:** School of Electrical, Mechanical and Biomedical Engineering, University of Technology Sydney, Sydney, Australia<br>
 **Contact:** mohammad.jamshidi@alumni.uts.edu.au<br>
 **BibTeX:** See the complete [Citation](#citation) section.
 
@@ -359,14 +359,15 @@ If this repository contributes to a publication, thesis, report, software produc
 ```bibtex
 @article{jamshidi2026hinn,
   author  = {Jamshidi, Mohammad (Behdad)},
-  title   = {Human-Informed Neural Networks (HINN): Trust-Adaptive Learning with Expert Guidance},
+  title   = {Human-Informed Neural Networks (HINNs): Trust-Adaptive Learning with Expert Guidance},
   journal = {Human-Centric Intelligent Systems},
   year    = {2026},
+  doi={https://doi.org/10.1007/s44230-026-00173-2}, 
   url     = {https://github.com/MBJamshidi/Human-Informed-Neural-Networks-HINN}
 }
 ```
 
-If a DOI, volume, issue, or final page range becomes available, use the publisher's final bibliographic record in preference to this provisional entry.
+If a volume, issue, or final page range becomes available, use the publisher's final bibliographic record in preference to this provisional entry.
 
 ## License
 
